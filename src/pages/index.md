@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Ho Minti Society | Choctaw-Apache Tribe of Ebarb
-image: /img/ho-minti-logo.jpg
+image: /img/ho-minti-logo.png
 heading: Ho Minti Society | Choctaw-Apache Tribe of Ebarb
 subheading: A brief description of the group
 mainpitch:
