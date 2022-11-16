@@ -2,7 +2,7 @@
 templateKey: 'product-page'
 path: /products
 title: Our Activities
-image: /img/activity-one.jpg
+image: /img/drum.jpg
 heading: This is a list of activities we do.
 description: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
@@ -11,25 +11,25 @@ description: >-
         ea commodo consequat.
 intro:
   blurbs:
-    - image: /img/activity_one.png
+    - image: /img/drum_small.png
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex 
         ea commodo consequat.
-    - image: /img/activity_two.png
+    - image: /img/gourd_small.png
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex 
         ea commodo consequat.
-    - image: /img/activity_three.png
+    - image: /img/bead_small.png
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex 
         ea commodo consequat.
-    - image: /img/activity_four.png
+    - image: /img/stick_small.png
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 

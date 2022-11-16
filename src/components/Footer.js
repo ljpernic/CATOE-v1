@@ -14,7 +14,7 @@ const Footer = () => {
         <div className="content has-text-centered">
           <img
             src={logo}
-            alt="Choctaw-Apache Tribe of Ebarb"
+            alt="Ho Minti Society"
             style={{ width: "14em", height: "10em" }}
           />
         </div>
