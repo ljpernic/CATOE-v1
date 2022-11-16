@@ -40,12 +40,12 @@ const Footer = () => {
                         Activities
                       </Link>
                     </li>
-                    <li>
+{/*                     <li>
                       <Link className="navbar-item" to="/contact/examples">
                         Form Examples
                       </Link>
                     </li>
-                    <li>
+*/}                    <li>
                       <a
                         className="navbar-item"
                         href="/admin/"

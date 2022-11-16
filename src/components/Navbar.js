@@ -53,19 +53,19 @@ const Navbar = () => {
               Contact
             </Link>
             </li>
-            <li className="navbar-item" style={{padding: "0px"}}>
+{/*            <li className="navbar-item" style={{padding: "0px"}}>
             <Link className="navbar-item" to="/contact/examples">
               Form Examples
             </Link>
             </li>
-          <li className="navbar-end has-text-centered">
+*/}          <li className="navbar-end has-text-centered">
             <a
               className="navbar-item"
               href="https://choctawapachetribeebarb.org/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              The Choctaw-Apache Tribe of Ebarb
+              <strong>Choctaw-Apache Tribe of Ebarb</strong>
             </a>
           </li>
         </ul>
