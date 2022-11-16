@@ -3,7 +3,7 @@ templateKey: index-page
 title: Ho Minti Society | Choctaw-Apache Tribe of Ebarb
 image: /img/ho-minti-logo.png
 heading: Ho Minti Society | Choctaw-Apache Tribe of Ebarb
-subheading: A brief description of the group
+subheading: A community organization
 mainpitch:
   title: Ho Minti Society
   description: >
@@ -17,25 +17,25 @@ description: >-
     regular activities for members and the community.
 intro:
   blurbs:
-    - image: /img/activity_one.png
+    - image: /img/project_one.png
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex 
         ea commodo consequat.
-    - image: /img/activity_two.png
+    - image: /img/project_two.png
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex 
         ea commodo consequat.
-    - image: /img/activity_three.png
+    - image: /img/project_three.png
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex 
         ea commodo consequat.
-    - image: /img/activity_four.png
+    - image: /img/project_four.png
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
@@ -48,7 +48,7 @@ intro:
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex 
         ea commodo consequat.
 main:
-  heading: Title for a highlight on the what we do page
+  heading: Title for page highlighting what we do
   description: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
@@ -56,11 +56,11 @@ main:
         ea commodo consequat.
   image1:
     alt: Alt text for the first image
-    image: /img/activities-grid3.jpg
+    image: /img/projects-grid3.jpg
   image2:
     alt: Alt text for the second image
-    image: /img/activities-grid2.jpg
+    image: /img/projects-grid2.jpg
   image3:
     alt: Alt text for the third image
-    image: /img/activities-grid1.jpg
+    image: /img/projects-grid1.jpg
 ---

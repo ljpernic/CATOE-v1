@@ -10,7 +10,7 @@ import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import FullWidthImage from "../components/FullWidthImage";
 
 // eslint-disable-next-line
-export const ActivityPageTemplate = ({
+export const ProjectPageTemplate = ({
   image,
   title,
   heading,
@@ -97,7 +97,7 @@ export const ActivityPageTemplate = ({
   );
 };
 
-ActivityPageTemplate.propTypes = {
+ProjectPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   heading: PropTypes.string,
@@ -121,12 +121,12 @@ ActivityPageTemplate.propTypes = {
   }),
 };
 
-const ActivityPage = ({ data }) => {
+const ProjectPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
 
   return (
     <Layout>
-      <ActivityPageTemplate
+      <ProjectPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
@@ -141,7 +141,7 @@ const ActivityPage = ({ data }) => {
   );
 };
 
-ActivityPage.propTypes = {
+ProjectPage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
       frontmatter: PropTypes.object,
@@ -149,10 +149,10 @@ ActivityPage.propTypes = {
   }),
 };
 
-export default ActivityPage;
+export default ProjectPage;
 
-export const activityPageQuery = graphql`
-  query ActivityPage($id: String!) {
+export const projectPageQuery = graphql`
+  query ProjectPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title

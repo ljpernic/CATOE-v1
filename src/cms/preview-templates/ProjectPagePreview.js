@@ -1,8 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { ActivityPageTemplate } from '../../templates/activity-page'
+import { ProjectPageTemplate } from '../../templates/project-page'
 
-const ActivityPagePreview = ({ entry, getAsset }) => {
+const ProjectPagePreview = ({ entry, getAsset }) => {
   const entryBlurbs = entry.getIn(['data', 'intro', 'blurbs'])
   const blurbs = entryBlurbs ? entryBlurbs.toJS() : []
 
@@ -13,7 +13,7 @@ const ActivityPagePreview = ({ entry, getAsset }) => {
   const pricingPlans = entryPricingPlans ? entryPricingPlans.toJS() : []
 
   return (
-    <ActivityPageTemplate
+    <ProjectPageTemplate
       image={getAsset(entry.getIn(['data', 'image']))}
       title={entry.getIn(['data', 'title'])}
       heading={entry.getIn(['data', 'heading'])}
@@ -46,11 +46,11 @@ const ActivityPagePreview = ({ entry, getAsset }) => {
   )
 }
 
-ActivityPagePreview.propTypes = {
+ProjectPagePreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
   getAsset: PropTypes.func,
 }
 
-export default ActivityPagePreview
+export default ProjectPagePreview

@@ -1,9 +1,9 @@
 ---
-templateKey: 'activity-page'
-path: /activities
-title: Our Activities
+templateKey: 'project-page'
+path: /projects
+title: Our Projects
 image: /img/drum.jpg
-heading: This is a list of regular activities we do.
+heading: This is a list of regular projects we do.
 description: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
@@ -42,7 +42,7 @@ intro:
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex 
         ea commodo consequat.
 main:
-  heading: This is for bigger activities.
+  heading: This is for bigger projects.
   description: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
@@ -50,13 +50,13 @@ main:
         ea commodo consequat.
   image1:
     alt: Alt image three
-    image: /img/activities-grid3.jpg
+    image: /img/projects-grid3.jpg
   image2:
     alt: Alt image two
-    image: /img/activities-grid2.jpg
+    image: /img/projects-grid2.jpg
   image3:
     alt: Alt image one
-    image: /img/activities-grid1.jpg
+    image: /img/projects-grid1.jpg
 testimonials:
   - author: Testimonial Author Name
     quote: >-
@@ -66,7 +66,7 @@ testimonials:
     quote: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
         tempor incididunt ut labore et dolore magna aliqua.
-full_image: /img/activities-full-width.jpg
+full_image: /img/projects-full-width.jpg
 pricing:
   heading: Three categories
   description: >-
