@@ -1,19 +1,24 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Who we are
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Why Ho Minti?
+Ho Minti is a Choctaw phrase that means “y'all come.” We call for a coming back together and a return to traditional American Indian ways of knowing and doing. The name also suggests a kind of in-gathering and renewal that we believe is necessary for our nation and culture to both survive and prosper.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### What are our goals?
+The purpose of the group is to promote CULTURAL AWARENESS, SERVICE, COMMUNITY ORGANIZING, and EDUCATION in a way that respects traditional knowledge and the breadth of our history and heritage. We organize regular activities for tribal members and the community at large.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Where do we fit in?
+We acknowledge the Choctaw-Apache tribal council as the governmental entity for the tribal nation to which most of us belong. However, the Ho Minti Society is a Louisiana non-profit organization that operates completely independently from the tribal government. Full membership is open to those eligible for enrollment in the tribe. We also encourage all American Indians and other supporters living in the region to become associate members.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### What do we believe?
+The HO MINTI SOCIETY is committed to the following four pillars:
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our events page.
+1. Respect for traditional knowledge and cultural vitalization.
+2. Reinvigorating cultural knowledge in everyday life through monthly cultural teachings and sharing of cultural knowledge as well as annual meetings.
+3. Supporting historical and heritage knowledge through historical and ethnological research and publications.
+4. Supporting traditional arts and crafts and artistic development.
+
+If you agree with our mission and our vision, we encourage you to join us! Keep an eye on this space for information on how!
+
