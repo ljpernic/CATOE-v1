@@ -15,7 +15,8 @@ const Footer = () => {
           <img
             src={logo}
             alt="Ho Minti Society"
-            style={{ width: "14em", height: "10em" }}
+            style={{ color: "white"}}
+//            style={{ width: "14em", height: "10em" }}
           />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
@@ -35,8 +36,8 @@ const Footer = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/products">
-                        Products
+                      <Link className="navbar-item" to="/activities">
+                        Activities
                       </Link>
                     </li>
                     <li>

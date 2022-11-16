@@ -1,6 +1,6 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: 'activity-page'
+path: /activities
 title: Our Activities
 image: /img/drum.jpg
 heading: This is a list of activities we do.
