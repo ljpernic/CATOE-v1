@@ -8,7 +8,7 @@ mainpitch:
   title: Ho Minti Society
   description: >
     HO MINTI is Choctaw for "y'all come." We promote cultural awareness, 
-    service, community organizing, and education relating to the Choctaw-Apache 
+    service, community organizing, and education related to the Choctaw-Apache 
     Community.
 description: >-
     The purpose of the group is to promote CULTURAL AWARENESS, SERVICE, COMMUNITY 
