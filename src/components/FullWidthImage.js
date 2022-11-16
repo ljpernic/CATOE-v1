@@ -10,7 +10,7 @@ export default function FullWidthImage(props) {
     subheading,
     imgPosition = "top left",
   } = props;
-  console.log(`These are the props in FullWidthImage.js:` + props)
+
   return (
     <React.Fragment>
       <div
