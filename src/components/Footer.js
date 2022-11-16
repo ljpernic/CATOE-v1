@@ -15,7 +15,7 @@ const Footer = () => {
           <img
             src={logo}
             alt="Ho Minti Society"
-            style={ "color: white"}
+            style={{color: "white"}}
 //            style={{ width: "14em", height: "10em" }}
           />
         </div>
